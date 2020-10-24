@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2020-10-24 00:42:07。
+最后检查时间：2020-10-25 01:16:05。
 
 ## 规则统计
 
@@ -29,8 +29,8 @@ Google分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Advertising)    | 140163   | [14](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Google/Repeat/Advertising.list)   |   0.01%  |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingTest)    | 165745   | [23](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Google/Repeat/AdvertisingTest.list)   |   0.01%  |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Advertising)    | 140162   | [14](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Google/Repeat/Advertising.list)   |   0.01%  |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingTest)    | 165764   | [23](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Google/Repeat/AdvertisingTest.list)   |   0.01%  |
 |  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingLite)    | 44359   | [10](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Google/Repeat/AdvertisingLite.list)   |   0.02%  |
 |  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/BlackList)    | 779   | [39](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Google/Repeat/BlackList.list)   |   5.01%  |
 |  [YouTube](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/YouTube)    | 14   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Google/Repeat/YouTube.list)   |   21.43%  |

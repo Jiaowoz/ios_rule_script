@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2020-10-24 00:42:09。
+最后检查时间：2020-10-25 01:16:08。
 
 ## 规则统计
 
@@ -31,7 +31,7 @@
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China)    | 598   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Lan/Repeat/China.list)   |   0.17%  |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73891   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Lan/Repeat/ChinaTest.list)   |   0.00%  |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73777   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Lan/Repeat/ChinaTest.list)   |   0.00%  |
 |  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Proxy)    | 27355   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Lan/Repeat/Proxy.list)   |   0.00%  |
 ## 配置说明
 

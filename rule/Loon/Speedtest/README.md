@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2020-10-24 00:42:07。
+最后检查时间：2020-10-25 01:16:05。
 
 ## 规则统计
 
@@ -30,7 +30,7 @@ Speedtest分流规则，与本项目其他分流规则重复情况统计。
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China)    | 598   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Speedtest/Repeat/China.list)   |   0.33%  |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73891   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Speedtest/Repeat/ChinaTest.list)   |   0.00%  |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73777   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Speedtest/Repeat/ChinaTest.list)   |   0.00%  |
 |  [Netflix](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Netflix)    | 40   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Speedtest/Repeat/Netflix.list)   |   2.50%  |
 |  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Global)    | 841   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Speedtest/Repeat/Global.list)   |   0.12%  |
 |  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/GlobalMedia)    | 296   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Speedtest/Repeat/GlobalMedia.list)   |   0.34%  |

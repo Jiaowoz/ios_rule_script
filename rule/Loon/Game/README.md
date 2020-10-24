@@ -10,7 +10,7 @@
 
 
 
-最后检查时间：2020-10-24 00:42:07。
+最后检查时间：2020-10-25 01:16:05。
 
 ## 规则统计
 
@@ -32,7 +32,7 @@
 | ---- | ---- | ---- | ------ |
 |  [Blizzard](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Blizzard)    | 6   | [6](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Game/Repeat/Blizzard.list)   |   100.00%  |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China)    | 598   | [10](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Game/Repeat/China.list)   |   1.67%  |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73891   | [10](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Game/Repeat/ChinaTest.list)   |   0.01%  |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73777   | [10](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Game/Repeat/ChinaTest.list)   |   0.01%  |
 |  [Discord](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Discord)    | 6   | [6](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Game/Repeat/Discord.list)   |   100.00%  |
 |  [Steam](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Steam)    | 16   | [16](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Game/Repeat/Steam.list)   |   100.00%  |
 |  [SteamCN](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/SteamCN)    | 13   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Game/Repeat/SteamCN.list)   |   38.46%  |

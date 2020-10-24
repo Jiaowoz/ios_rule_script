@@ -1,9 +1,9 @@
 # NAME: Advertising
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATE: 2020-10-24 00:42:00
+# UPDATE: 2020-10-25 01:15:55
 # DOMAIN: 95491
-# DOMAIN-SUFFIX: 44038
-# TOTAL: 139529
+# DOMAIN-SUFFIX: 44037
+# TOTAL: 139528
 .0.r.msn.com
 .00-gov.cn
 .000dn.com
@@ -38883,7 +38883,6 @@
 .upijhkdcovdep.com
 .upikeoshfhw.com
 .upliftsearch.com
-.upload.cc
 .uploadlog.p2p.qq.com
 .uplze.code.weddingeeos.com
 .upnorma.com
