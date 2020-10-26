@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2020-10-25 01:16:03。
+最后检查时间：2020-10-26 10:24:49。
 
 ## 规则统计
 
@@ -29,7 +29,7 @@
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/China)    | 598   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Blizzard/Repeat/China.list)   |   0.50%  |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 73777   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Blizzard/Repeat/ChinaTest.list)   |   0.00%  |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 73776   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Blizzard/Repeat/ChinaTest.list)   |   0.00%  |
 |  [Game](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Game)    | 28   | [6](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Blizzard/Repeat/Game.list)   |   21.43%  |
 |  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Proxy)    | 27355   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Blizzard/Repeat/Proxy.list)   |   0.01%  |
 ## 配置说明

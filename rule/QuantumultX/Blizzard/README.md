@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2020-10-25 01:16:03。
+最后检查时间：2020-10-26 10:24:49。
 
 ## 规则统计
 
@@ -29,7 +29,7 @@
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/China)    | 594   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Blizzard/Repeat/China.list)   |   0.51%  |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaTest)    | 73773   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Blizzard/Repeat/ChinaTest.list)   |   0.00%  |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaTest)    | 73772   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Blizzard/Repeat/ChinaTest.list)   |   0.00%  |
 |  [Game](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Game)    | 28   | [6](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Blizzard/Repeat/Game.list)   |   21.43%  |
 |  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Proxy)    | 27352   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Blizzard/Repeat/Proxy.list)   |   0.01%  |
 ## 配置说明

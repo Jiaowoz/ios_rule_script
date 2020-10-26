@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2020-10-25 01:16:07。
+最后检查时间：2020-10-26 10:24:52。
 
 ## 规则统计
 
@@ -29,7 +29,7 @@
 | ---- | ---- | ---- | ------ |
 |  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/BlackList)    | 778   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Scholar/Repeat/BlackList.list)   |   0.13%  |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/China)    | 594   | [56](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Scholar/Repeat/China.list)   |   9.43%  |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaTest)    | 73773   | [60](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Scholar/Repeat/ChinaTest.list)   |   0.08%  |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaTest)    | 73772   | [60](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Scholar/Repeat/ChinaTest.list)   |   0.08%  |
 |  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Proxy)    | 27352   | [36](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Scholar/Repeat/Proxy.list)   |   0.13%  |
 ## 配置说明
 
