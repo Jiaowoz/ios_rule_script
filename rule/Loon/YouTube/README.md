@@ -8,7 +8,11 @@
 
 
 
+<<<<<<< HEAD
 最后检查时间：2020-10-26 16:28:10。
+=======
+最后检查时间：2020-11-07 00:12:34。
+>>>>>>> upstream/master
 
 ## 规则统计
 
@@ -30,6 +34,7 @@ YouTube分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
+<<<<<<< HEAD
 |  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 140228   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube/Repeat/Advertising.list)   |   0.00%  |
 |  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 165828   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube/Repeat/AdvertisingTest.list)   |   0.00%  |
 |  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingLite)    | 44358   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube/Repeat/AdvertisingLite.list)   |   0.00%  |
@@ -38,6 +43,17 @@ YouTube分流规则，与本项目其他分流规则重复情况统计。
 |  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Global)    | 841   | [9](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube/Repeat/Global.list)   |   1.07%  |
 |  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/GlobalMedia)    | 296   | [14](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube/Repeat/GlobalMedia.list)   |   4.73%  |
 |  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Proxy)    | 27355   | [7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube/Repeat/Proxy.list)   |   0.03%  |
+=======
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 93227   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube/Repeat/Advertising.list)   |   0.00%  |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 109520   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube/Repeat/AdvertisingTest.list)   |   0.00%  |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingLite)    | 41859   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube/Repeat/AdvertisingLite.list)   |   0.00%  |
+|  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/BlackList)    | 781   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube/Repeat/BlackList.list)   |   0.38%  |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73807   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube/Repeat/ChinaTest.list)   |   0.00%  |
+|  [Google](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Google)    | 123   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube/Repeat/Google.list)   |   2.44%  |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Global)    | 827   | [9](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube/Repeat/Global.list)   |   1.09%  |
+|  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/GlobalMedia)    | 268   | [14](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube/Repeat/GlobalMedia.list)   |   5.22%  |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Proxy)    | 27399   | [7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube/Repeat/Proxy.list)   |   0.03%  |
+>>>>>>> upstream/master
 |  [YouTubeMusic](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTubeMusic)    | 4   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube/Repeat/YouTubeMusic.list)   |   50.00%  |
 ## 配置说明
 

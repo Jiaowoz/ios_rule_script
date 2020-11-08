@@ -9,14 +9,23 @@
 本复写插件不包含知乎和Youtube去广告规则。
 
 
+<<<<<<< HEAD
 最后检查时间：2020-10-26 16:28:26。
+=======
+最后检查时间：2020-11-07 00:13:26。
+>>>>>>> upstream/master
 
 ## 复写统计
 
 | 类型 | 数量(条) |
 | ---- | ---- |
+<<<<<<< HEAD
 | MITM | 551 |
 | UrlRewrite | 795 |
+=======
+| MITM | 549 |
+| UrlRewrite | 794 |
+>>>>>>> upstream/master
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -41,6 +50,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/S
 - https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/RewriteRules.sgmodule
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.sgmodule
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/Block/Advertising.sgmodule
+<<<<<<< HEAD
+=======
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.sgmodule
+>>>>>>> upstream/master
 - https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Rewrite.txt
 - https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Rewrite_lhie1.conf
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf
@@ -62,6 +75,23 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/S
 
 所以很抱歉，没办法处理关于某个APP无法去除广告的反馈，除非您能明确数据源的规则可以去除，而整合后的规则无法去除。同样，也没办法协助您处理去广告规则误拦截的问题，除非您能明确告知哪条规则存在问题，我会将其加入规则黑名单，下次爬虫程序更新时将其去除。
 
+<<<<<<< HEAD
+=======
+### 特定APP去广告
+
+#### 知乎
+
+本规则不包含知乎去广告，知乎去广告请移步：https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zhihu
+
+#### 哔哩哔哩
+
+如需更完整的哔哩哔哩去广告，请移步：https://github.com/blackmatrix7/ios_rule_script/tree/master/script/bilibili
+
+#### YouTube
+
+本规则不包含YouTube去广告，请自行寻找其他解决方案。
+
+>>>>>>> upstream/master
 ### 脚本处理
 
 去广告复写规则已将所有涉及脚本处理的复写去除，请知悉。

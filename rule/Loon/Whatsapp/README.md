@@ -8,7 +8,11 @@
 
 
 
+<<<<<<< HEAD
 最后检查时间：2020-10-26 16:28:13。
+=======
+最后检查时间：2020-11-07 00:12:38。
+>>>>>>> upstream/master
 
 ## 规则统计
 
@@ -28,8 +32,13 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
+<<<<<<< HEAD
 |  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/BlackList)    | 778   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Whatsapp/Repeat/BlackList.list)   |   0.26%  |
 |  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Proxy)    | 27355   | [16](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Whatsapp/Repeat/Proxy.list)   |   0.06%  |
+=======
+|  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/BlackList)    | 781   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Whatsapp/Repeat/BlackList.list)   |   0.26%  |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Proxy)    | 27399   | [16](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Whatsapp/Repeat/Proxy.list)   |   0.06%  |
+>>>>>>> upstream/master
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化

@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # Proxy 与 AdvertisingTest 共 212 条规则重复
 # 最后检查时间：2020-10-26 10:24:53
+=======
+# Proxy 与 AdvertisingTest 共 208 条规则重复
+# 最后检查时间：2020-11-07 00:12:37
+>>>>>>> upstream/master
 # Github: https://github.com/blackmatrix7/ios_rule_script
 # 重复规则明细：
 HOST-SUFFIX,0emm.com
@@ -27,11 +32,17 @@ HOST-SUFFIX,adnetworkperformance.com
 HOST-SUFFIX,adobetag.com
 HOST-SUFFIX,ads-a.juicyads.com
 HOST-SUFFIX,ads-twitter.com
+<<<<<<< HEAD
 HOST-SUFFIX,adsensecustomsearchads.com
 HOST-SUFFIX,adultfriendfinder.com
 HOST-SUFFIX,advertserve.com
 HOST-SUFFIX,adxpansion.com
 HOST-SUFFIX,amazon-adsystem.com
+=======
+HOST-SUFFIX,adultfriendfinder.com
+HOST-SUFFIX,advertserve.com
+HOST-SUFFIX,adxpansion.com
+>>>>>>> upstream/master
 HOST-SUFFIX,anyporn.com
 HOST-SUFFIX,api.amplitude.com
 HOST-SUFFIX,api.mixpanel.com
@@ -85,6 +96,10 @@ HOST-SUFFIX,fabric.io
 HOST-SUFFIX,faceporn.com
 HOST-SUFFIX,feedblitz.com
 HOST-SUFFIX,fgmtv.org
+<<<<<<< HEAD
+=======
+HOST-SUFFIX,filestube.com
+>>>>>>> upstream/master
 HOST-SUFFIX,flirt4free.com
 HOST-SUFFIX,flu.cc
 HOST-SUFFIX,flurry.com
@@ -99,7 +114,10 @@ HOST-SUFFIX,google-analytics.com
 HOST-SUFFIX,googleadservices.com
 HOST-SUFFIX,googleanalytics.com
 HOST-SUFFIX,googlecommerce.com
+<<<<<<< HEAD
 HOST-SUFFIX,googleoptimize.com
+=======
+>>>>>>> upstream/master
 HOST-SUFFIX,googlesyndication.com
 HOST-SUFFIX,googletagmanager.com
 HOST-SUFFIX,googletagservices.com
@@ -109,9 +127,13 @@ HOST-SUFFIX,h8vzwpv.com
 HOST-SUFFIX,igg.biz
 HOST-SUFFIX,incloak.com
 HOST-SUFFIX,internetdefenseleague.org
+<<<<<<< HEAD
 HOST-SUFFIX,iyoowi.com
 HOST-SUFFIX,javhd.com
 HOST-SUFFIX,jf71qh5v14.com
+=======
+HOST-SUFFIX,javhd.com
+>>>>>>> upstream/master
 HOST-SUFFIX,joyourself.com
 HOST-SUFFIX,js.revsci.net
 HOST-SUFFIX,jwpcdn.com
@@ -159,7 +181,10 @@ HOST-SUFFIX,pixiv.org
 HOST-SUFFIX,play-asia.com
 HOST-SUFFIX,porn99.net
 HOST-SUFFIX,prfct.co
+<<<<<<< HEAD
 HOST-SUFFIX,printfriendly.com
+=======
+>>>>>>> upstream/master
 HOST-SUFFIX,pubmatic.com
 HOST-SUFFIX,pubnub.com
 HOST-SUFFIX,pushwoosh.com
@@ -200,6 +225,10 @@ HOST-SUFFIX,twittercounter.com
 HOST-SUFFIX,ubertags.com
 HOST-SUFFIX,uod2quk646.com
 HOST-SUFFIX,voyeurhit.com
+<<<<<<< HEAD
+=======
+HOST-SUFFIX,vwo.com
+>>>>>>> upstream/master
 HOST-SUFFIX,watchmygf.com
 HOST-SUFFIX,wm-panel.com
 HOST-SUFFIX,wmflabs.org

@@ -8,7 +8,11 @@
 
 
 
+<<<<<<< HEAD
 最后检查时间：2020-10-26 16:28:13。
+=======
+最后检查时间：2020-11-07 00:12:37。
+>>>>>>> upstream/master
 
 ## 规则统计
 
@@ -27,9 +31,15 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
+<<<<<<< HEAD
 |  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/BlackList)    | 778   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Wikipedia/Repeat/BlackList.list)   |   0.39%  |
 |  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Global)    | 841   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Wikipedia/Repeat/Global.list)   |   0.59%  |
 |  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Proxy)    | 27355   | [12](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Wikipedia/Repeat/Proxy.list)   |   0.04%  |
+=======
+|  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/BlackList)    | 781   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Wikipedia/Repeat/BlackList.list)   |   0.38%  |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Global)    | 827   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Wikipedia/Repeat/Global.list)   |   0.60%  |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Proxy)    | 27399   | [12](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Wikipedia/Repeat/Proxy.list)   |   0.04%  |
+>>>>>>> upstream/master
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化

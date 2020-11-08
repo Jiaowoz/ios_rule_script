@@ -8,7 +8,11 @@
 
 
 
+<<<<<<< HEAD
 最后检查时间：2020-10-26 16:28:13。
+=======
+最后检查时间：2020-11-07 00:12:38。
+>>>>>>> upstream/master
 
 ## 规则统计
 
@@ -27,8 +31,13 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
+<<<<<<< HEAD
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/China)    | 594   | [7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/XiaoMi/Repeat/China.list)   |   1.18%  |
 |  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaTest)    | 73772   | [7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/XiaoMi/Repeat/ChinaTest.list)   |   0.01%  |
+=======
+|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/China)    | 589   | [7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/XiaoMi/Repeat/China.list)   |   1.19%  |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaTest)    | 73803   | [7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/XiaoMi/Repeat/ChinaTest.list)   |   0.01%  |
+>>>>>>> upstream/master
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化

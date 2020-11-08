@@ -10,18 +10,31 @@
 
 
 
+<<<<<<< HEAD
 最后检查时间：2020-10-26 16:28:07。
 
 ## 规则统计
 
 总计规则：1805 条。
+=======
+最后检查时间：2020-11-07 00:12:31。
+
+## 规则统计
+
+总计规则：160 条。
+>>>>>>> upstream/master
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
+<<<<<<< HEAD
 | HOST | 138 |
 | HOST-SUFFIX | 1656 |
+=======
+| HOST | 2 |
+| HOST-SUFFIX | 147 |
+>>>>>>> upstream/master
 | IP-CIDR | 10 |
 | USER-AGENT | 1 |
 ## 重复统计
@@ -32,6 +45,7 @@ Apple分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
+<<<<<<< HEAD
 |  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Advertising)    | 139893   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat/Advertising.list)   |   0.00%  |
 |  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest)    | 165493   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat/AdvertisingTest.list)   |   0.00%  |
 |  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingLite)    | 44036   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat/AdvertisingLite.list)   |   0.00%  |
@@ -45,6 +59,20 @@ Apple分流规则，与本项目其他分流规则重复情况统计。
 |  [Microsoft](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Microsoft)    | 98   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat/Microsoft.list)   |   1.02%  |
 |  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Global)    | 837   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat/Global.list)   |   0.48%  |
 |  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Proxy)    | 27352   | [1208](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat/Proxy.list)   |   4.42%  |
+=======
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Advertising)    | 92892   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat/Advertising.list)   |   0.00%  |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest)    | 109185   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat/AdvertisingTest.list)   |   0.00%  |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingLite)    | 41537   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat/AdvertisingLite.list)   |   0.00%  |
+|  [AppleBlock](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AppleBlock)    | 5   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat/AppleBlock.list)   |   20.00%  |
+|  [AppleNews](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AppleNews)    | 8   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat/AppleNews.list)   |   12.50%  |
+|  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/BlackList)    | 781   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat/BlackList.list)   |   0.13%  |
+|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/China)    | 589   | [12](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat/China.list)   |   2.04%  |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaTest)    | 73803   | [99](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat/ChinaTest.list)   |   0.13%  |
+|  [SystemOTA](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/SystemOTA)    | 8   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat/SystemOTA.list)   |   37.50%  |
+|  [Microsoft](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Microsoft)    | 97   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat/Microsoft.list)   |   1.03%  |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Global)    | 823   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat/Global.list)   |   0.12%  |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Proxy)    | 27396   | [34](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat/Proxy.list)   |   0.12%  |
+>>>>>>> upstream/master
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化

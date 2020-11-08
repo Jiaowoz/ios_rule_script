@@ -8,7 +8,11 @@
 
 
 
+<<<<<<< HEAD
 最后检查时间：2020-10-26 16:28:09。
+=======
+最后检查时间：2020-11-07 00:12:33。
+>>>>>>> upstream/master
 
 ## 规则统计
 
@@ -27,8 +31,13 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
+<<<<<<< HEAD
 |  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Global)    | 837   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Dubox/Repeat/Global.list)   |   0.24%  |
 |  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Proxy)    | 27352   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Dubox/Repeat/Proxy.list)   |   0.01%  |
+=======
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Global)    | 823   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Dubox/Repeat/Global.list)   |   0.24%  |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Proxy)    | 27396   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Dubox/Repeat/Proxy.list)   |   0.01%  |
+>>>>>>> upstream/master
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化

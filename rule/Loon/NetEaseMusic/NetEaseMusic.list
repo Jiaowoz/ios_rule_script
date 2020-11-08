@@ -1,5 +1,6 @@
 # NAME: NetEaseMusic
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
+<<<<<<< HEAD
 # UPDATE: 2020-10-26 16:28:06
 # DOMAIN-SUFFIX: 19
 # IP-CIDR: 25
@@ -11,6 +12,13 @@ DOMAIN,interface.music.163.com
 DOMAIN,interface3.music.163.com
 DOMAIN,music.126.net
 DOMAIN,music.163.com
+=======
+# UPDATE: 2020-11-07 00:12:27
+# DOMAIN-SUFFIX: 19
+# IP-CIDR: 25
+# DOMAIN: 0
+# TOTAL: 44
+>>>>>>> upstream/master
 DOMAIN-SUFFIX,126.com
 DOMAIN-SUFFIX,126.net
 DOMAIN-SUFFIX,127.net

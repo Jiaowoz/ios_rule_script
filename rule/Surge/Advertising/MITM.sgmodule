@@ -1,5 +1,9 @@
 #!name=Advertising MITM
+<<<<<<< HEAD
 #!desc=最后更新时间 2020-10-26 16:28:00
+=======
+#!desc=最后更新时间 2020-11-07 00:12:23
+>>>>>>> upstream/master
 #!system=ios
 #!mitm=268
 #!github=https://github.com/blackmatrix7/ios_rule_script

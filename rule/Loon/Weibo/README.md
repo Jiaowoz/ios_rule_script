@@ -8,7 +8,11 @@
 
 
 
+<<<<<<< HEAD
 最后检查时间：2020-10-26 16:28:12。
+=======
+最后检查时间：2020-11-07 00:12:36。
+>>>>>>> upstream/master
 
 ## 规则统计
 
@@ -28,8 +32,13 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
+<<<<<<< HEAD
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China)    | 598   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Weibo/Repeat/China.list)   |   0.50%  |
 |  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73776   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Weibo/Repeat/ChinaTest.list)   |   0.00%  |
+=======
+|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China)    | 593   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Weibo/Repeat/China.list)   |   0.51%  |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73807   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Weibo/Repeat/ChinaTest.list)   |   0.00%  |
+>>>>>>> upstream/master
 |  [Sina](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Sina)    | 10   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Weibo/Repeat/Sina.list)   |   40.00%  |
 ## 配置说明
 

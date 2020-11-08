@@ -1,9 +1,16 @@
 # NAME: Privacy
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
+<<<<<<< HEAD
 # UPDATE: 2020-10-26 16:28:06
 # DOMAIN: 22
 # DOMAIN-SUFFIX: 2691
 # TOTAL: 2713
+=======
+# UPDATE: 2020-11-07 00:12:28
+# DOMAIN: 19
+# DOMAIN-SUFFIX: 2699
+# TOTAL: 2718
+>>>>>>> upstream/master
 .0sbm.consobaby.co.uk
 .0x1f4b0.com
 .1l-hit.mail.ru
@@ -225,6 +232,10 @@
 .analytics.thetab.com
 .analytics.tiktok.com
 .analytics.tio.ch
+<<<<<<< HEAD
+=======
+.analytics.tooso.ai
+>>>>>>> upstream/master
 .analytics.tout.com
 .analytics.tradedoubler.com
 .analytics.traderlink.com
@@ -428,6 +439,10 @@
 .canvas-ping.conduit-data.com
 .canvas-usage-v2.conduit-data.com
 .capture.condenastdigital.com
+<<<<<<< HEAD
+=======
+.capture.crutchfield.com
+>>>>>>> upstream/master
 .carl.pubsvs.com
 .cashbeet.com
 .caspionlog.appspot.com
@@ -536,7 +551,10 @@
 .collect.rewardstyle.com
 .collect.state.centrum24.pl
 .collect.tianya.cn
+<<<<<<< HEAD
 .collect.usefathom.com
+=======
+>>>>>>> upstream/master
 .collector-api.99designs.com
 .collector-cdn.github.com
 .collector-medium.lightstep.com
@@ -544,6 +562,10 @@
 .collector.automote.co.nz
 .collector.clareity.net
 .collector.fiverr.com
+<<<<<<< HEAD
+=======
+.collector.getyourguide.com
+>>>>>>> upstream/master
 .collector.githubapp.com
 .collector.ksax.com
 .collector.kstptv5.com
@@ -557,7 +579,10 @@
 .collector.trendmd.com
 .collector.wallapop.com
 .com.econa.com
+<<<<<<< HEAD
 .comet.ibsrv.net
+=======
+>>>>>>> upstream/master
 .commsvc.stern.de
 .compare.easyviaggio.com
 .compare.easyviajar.com
@@ -1237,7 +1262,10 @@
 .logs-qos.tf1.fr
 .logs.51cto.com
 .logs.dashlane.com
+<<<<<<< HEAD
 .logs.datadoghq.eu
+=======
+>>>>>>> upstream/master
 .logs.gaana.com
 .logs.ggweb.nl
 .logs.hotstar.com
@@ -1276,6 +1304,10 @@
 .mastertag.q-sis.de
 .mc.webvisor.com
 .mc.webvisor.org
+<<<<<<< HEAD
+=======
+.mcs-va.tiktokv.com
+>>>>>>> upstream/master
 .mcs.delvenetworks.com
 .measure.ameblo.jp
 .measure.refinery89.com
@@ -1361,6 +1393,10 @@
 .mv.treehousei.com
 .mva1.maeva.com
 .mwor.gq
+<<<<<<< HEAD
+=======
+.mx.technolutions.net
+>>>>>>> upstream/master
 .n.yunshipei.com
 .nanostats.nanopress.it
 .nb.myspace.com
@@ -1669,6 +1705,10 @@
 .s.qhupdate.com
 .s.renren.com
 .s.sniphub.com
+<<<<<<< HEAD
+=======
+.s.srvsynd.com
+>>>>>>> upstream/master
 .s24cloud.net/log
 .s3-tracking.synthasite.net.s3.amazonaws.com
 .sa.bbc.co.uk
@@ -2008,6 +2048,10 @@
 .stats.sawlive.tv
 .stats.searchftps.net
 .stats.searchftps.org
+<<<<<<< HEAD
+=======
+.stats.sec.telefonica.com
+>>>>>>> upstream/master
 .stats.seedr.com
 .stats.sexemodel.com
 .stats.shopify.com
@@ -2034,6 +2078,10 @@
 .stats.videodelivery.net
 .stats.visistat.com
 .stats.vk-portal.net
+<<<<<<< HEAD
+=======
+.stats.vliplatform.com
+>>>>>>> upstream/master
 .stats.vulture.com
 .stats.webs.com
 .stats.wordpress.com
@@ -2192,6 +2240,10 @@
 .te.supportfreecontent.com
 .ted.metro.co.uk
 .telegraph.api.hbo.com
+<<<<<<< HEAD
+=======
+.telemetry.art19.com
+>>>>>>> upstream/master
 .telemetry.jivosite.com
 .telemetry.reembed.com
 .telemetry.soundcloud.com
@@ -2337,6 +2389,10 @@
 .track2.mycliplister.com
 .tracker-api.my.com
 .tracker-id.cdiscount.com
+<<<<<<< HEAD
+=======
+.tracker.520call.me
+>>>>>>> upstream/master
 .tracker.affiliate.iqoption.com
 .tracker.affirm.com
 .tracker.anandtech.com
@@ -2589,6 +2645,10 @@
 .videoplayer2.xyz
 .videostat-new.index.hu
 .videostat.index.hu
+<<<<<<< HEAD
+=======
+.videostats.kakao.com
+>>>>>>> upstream/master
 .views.cancan.ro
 .visit.asb.co.nz
 .visit.dealspwn.com
@@ -2695,7 +2755,10 @@
 .zsi7.destinia.do
 .zyq2.destinia.sk
 .zz.bdstatic.com
+<<<<<<< HEAD
 btrace.qq.com
+=======
+>>>>>>> upstream/master
 data.mistat.xiaomi.com
 hm.baidu.com
 hmma.baidu.com
@@ -2710,8 +2773,11 @@ mtrace.qq.com
 safebrowsing.googleapis.com
 safebrowsing.urlsec.qq.com
 track.58.com
+<<<<<<< HEAD
 track.tiara.daum.net
 track.tiara.kakao.com
+=======
+>>>>>>> upstream/master
 tracking.intl.miui.com
 tracklog.58.com
 wc.51.la

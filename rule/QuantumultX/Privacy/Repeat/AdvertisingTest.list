@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Privacy 与 AdvertisingTest 共 2690 条规则重复
 # 最后检查时间：2020-10-26 10:24:53
 # Github: https://github.com/blackmatrix7/ios_rule_script
@@ -6,6 +7,12 @@ HOST,btrace.qq.com
 HOST,hm.baidu.com
 HOST,hmma.baidu.com
 HOST,js.users.51.la
+=======
+# Privacy 与 AdvertisingTest 共 2694 条规则重复
+# 最后检查时间：2020-11-07 00:12:36
+# Github: https://github.com/blackmatrix7/ios_rule_script
+# 重复规则明细：
+>>>>>>> upstream/master
 HOST,log.byteoversea.com
 HOST,log.tiktokv.com
 HOST-SUFFIX,0sbm.consobaby.co.uk
@@ -228,6 +235,10 @@ HOST-SUFFIX,analytics.thenewslens.com
 HOST-SUFFIX,analytics.thetab.com
 HOST-SUFFIX,analytics.tiktok.com
 HOST-SUFFIX,analytics.tio.ch
+<<<<<<< HEAD
+=======
+HOST-SUFFIX,analytics.tooso.ai
+>>>>>>> upstream/master
 HOST-SUFFIX,analytics.tout.com
 HOST-SUFFIX,analytics.tradedoubler.com
 HOST-SUFFIX,analytics.traderlink.com
@@ -429,6 +440,10 @@ HOST-SUFFIX,campaignseries-gb.campaignseries.co.uk
 HOST-SUFFIX,canvas-ping.conduit-data.com
 HOST-SUFFIX,canvas-usage-v2.conduit-data.com
 HOST-SUFFIX,capture.condenastdigital.com
+<<<<<<< HEAD
+=======
+HOST-SUFFIX,capture.crutchfield.com
+>>>>>>> upstream/master
 HOST-SUFFIX,carl.pubsvs.com
 HOST-SUFFIX,cashbeet.com
 HOST-SUFFIX,caspionlog.appspot.com
@@ -537,7 +552,10 @@ HOST-SUFFIX,collect.igodigital.com
 HOST-SUFFIX,collect.rewardstyle.com
 HOST-SUFFIX,collect.state.centrum24.pl
 HOST-SUFFIX,collect.tianya.cn
+<<<<<<< HEAD
 HOST-SUFFIX,collect.usefathom.com
+=======
+>>>>>>> upstream/master
 HOST-SUFFIX,collector-api.99designs.com
 HOST-SUFFIX,collector-cdn.github.com
 HOST-SUFFIX,collector-medium.lightstep.com
@@ -545,6 +563,10 @@ HOST-SUFFIX,collector-px0py5pczn.octopart.com
 HOST-SUFFIX,collector.automote.co.nz
 HOST-SUFFIX,collector.clareity.net
 HOST-SUFFIX,collector.fiverr.com
+<<<<<<< HEAD
+=======
+HOST-SUFFIX,collector.getyourguide.com
+>>>>>>> upstream/master
 HOST-SUFFIX,collector.githubapp.com
 HOST-SUFFIX,collector.ksax.com
 HOST-SUFFIX,collector.kstptv5.com
@@ -558,7 +580,10 @@ HOST-SUFFIX,collector.tescocompare.com
 HOST-SUFFIX,collector.trendmd.com
 HOST-SUFFIX,collector.wallapop.com
 HOST-SUFFIX,com.econa.com
+<<<<<<< HEAD
 HOST-SUFFIX,comet.ibsrv.net
+=======
+>>>>>>> upstream/master
 HOST-SUFFIX,commsvc.stern.de
 HOST-SUFFIX,compare.easyviaggio.com
 HOST-SUFFIX,compare.easyviajar.com
@@ -1237,7 +1262,10 @@ HOST-SUFFIX,logs-api.shoprunner.com
 HOST-SUFFIX,logs-qos.tf1.fr
 HOST-SUFFIX,logs.51cto.com
 HOST-SUFFIX,logs.dashlane.com
+<<<<<<< HEAD
 HOST-SUFFIX,logs.datadoghq.eu
+=======
+>>>>>>> upstream/master
 HOST-SUFFIX,logs.gaana.com
 HOST-SUFFIX,logs.ggweb.nl
 HOST-SUFFIX,logs.hotstar.com
@@ -1276,6 +1304,10 @@ HOST-SUFFIX,mastertag.kpcustomer.de
 HOST-SUFFIX,mastertag.q-sis.de
 HOST-SUFFIX,mc.webvisor.com
 HOST-SUFFIX,mc.webvisor.org
+<<<<<<< HEAD
+=======
+HOST-SUFFIX,mcs-va.tiktokv.com
+>>>>>>> upstream/master
 HOST-SUFFIX,mcs.delvenetworks.com
 HOST-SUFFIX,measure.ameblo.jp
 HOST-SUFFIX,measure.refinery89.com
@@ -1361,6 +1393,10 @@ HOST-SUFFIX,mts-ws.rueducommerce.fr
 HOST-SUFFIX,mv.treehousei.com
 HOST-SUFFIX,mva1.maeva.com
 HOST-SUFFIX,mwor.gq
+<<<<<<< HEAD
+=======
+HOST-SUFFIX,mx.technolutions.net
+>>>>>>> upstream/master
 HOST-SUFFIX,n.yunshipei.com
 HOST-SUFFIX,nanostats.nanopress.it
 HOST-SUFFIX,nb.myspace.com
@@ -1668,6 +1704,10 @@ HOST-SUFFIX,s.infogram.com
 HOST-SUFFIX,s.qhupdate.com
 HOST-SUFFIX,s.renren.com
 HOST-SUFFIX,s.sniphub.com
+<<<<<<< HEAD
+=======
+HOST-SUFFIX,s.srvsynd.com
+>>>>>>> upstream/master
 HOST-SUFFIX,s24cloud.net/log
 HOST-SUFFIX,s3-tracking.synthasite.net.s3.amazonaws.com
 HOST-SUFFIX,sa.bbc.co.uk
@@ -2006,6 +2046,10 @@ HOST-SUFFIX,stats.sa-as.com
 HOST-SUFFIX,stats.sawlive.tv
 HOST-SUFFIX,stats.searchftps.net
 HOST-SUFFIX,stats.searchftps.org
+<<<<<<< HEAD
+=======
+HOST-SUFFIX,stats.sec.telefonica.com
+>>>>>>> upstream/master
 HOST-SUFFIX,stats.seedr.com
 HOST-SUFFIX,stats.sexemodel.com
 HOST-SUFFIX,stats.shopify.com
@@ -2032,6 +2076,10 @@ HOST-SUFFIX,stats.viddler.com
 HOST-SUFFIX,stats.videodelivery.net
 HOST-SUFFIX,stats.visistat.com
 HOST-SUFFIX,stats.vk-portal.net
+<<<<<<< HEAD
+=======
+HOST-SUFFIX,stats.vliplatform.com
+>>>>>>> upstream/master
 HOST-SUFFIX,stats.vulture.com
 HOST-SUFFIX,stats.webs.com
 HOST-SUFFIX,stats.wordpress.com
@@ -2190,6 +2238,10 @@ HOST-SUFFIX,te.mytoys.de
 HOST-SUFFIX,te.supportfreecontent.com
 HOST-SUFFIX,ted.metro.co.uk
 HOST-SUFFIX,telegraph.api.hbo.com
+<<<<<<< HEAD
+=======
+HOST-SUFFIX,telemetry.art19.com
+>>>>>>> upstream/master
 HOST-SUFFIX,telemetry.jivosite.com
 HOST-SUFFIX,telemetry.reembed.com
 HOST-SUFFIX,telemetry.soundcloud.com
@@ -2335,6 +2387,10 @@ HOST-SUFFIX,track2.dulingo.com
 HOST-SUFFIX,track2.mycliplister.com
 HOST-SUFFIX,tracker-api.my.com
 HOST-SUFFIX,tracker-id.cdiscount.com
+<<<<<<< HEAD
+=======
+HOST-SUFFIX,tracker.520call.me
+>>>>>>> upstream/master
 HOST-SUFFIX,tracker.affiliate.iqoption.com
 HOST-SUFFIX,tracker.affirm.com
 HOST-SUFFIX,tracker.anandtech.com
@@ -2587,6 +2643,10 @@ HOST-SUFFIX,videoevents.outbrain.com
 HOST-SUFFIX,videoplayer2.xyz
 HOST-SUFFIX,videostat-new.index.hu
 HOST-SUFFIX,videostat.index.hu
+<<<<<<< HEAD
+=======
+HOST-SUFFIX,videostats.kakao.com
+>>>>>>> upstream/master
 HOST-SUFFIX,views.cancan.ro
 HOST-SUFFIX,visit.asb.co.nz
 HOST-SUFFIX,visit.dealspwn.com

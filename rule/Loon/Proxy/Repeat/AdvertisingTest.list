@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # Proxy 与 AdvertisingTest 共 212 条规则重复
 # 最后检查时间：2020-10-26 10:24:53
+=======
+# Proxy 与 AdvertisingTest 共 208 条规则重复
+# 最后检查时间：2020-11-07 00:12:37
+>>>>>>> upstream/master
 # Github: https://github.com/blackmatrix7/ios_rule_script
 # 重复规则明细：
 DOMAIN-SUFFIX,0emm.com
@@ -27,11 +32,17 @@ DOMAIN-SUFFIX,adnetworkperformance.com
 DOMAIN-SUFFIX,adobetag.com
 DOMAIN-SUFFIX,ads-a.juicyads.com
 DOMAIN-SUFFIX,ads-twitter.com
+<<<<<<< HEAD
 DOMAIN-SUFFIX,adsensecustomsearchads.com
 DOMAIN-SUFFIX,adultfriendfinder.com
 DOMAIN-SUFFIX,advertserve.com
 DOMAIN-SUFFIX,adxpansion.com
 DOMAIN-SUFFIX,amazon-adsystem.com
+=======
+DOMAIN-SUFFIX,adultfriendfinder.com
+DOMAIN-SUFFIX,advertserve.com
+DOMAIN-SUFFIX,adxpansion.com
+>>>>>>> upstream/master
 DOMAIN-SUFFIX,anyporn.com
 DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,api.mixpanel.com
@@ -85,6 +96,10 @@ DOMAIN-SUFFIX,fabric.io
 DOMAIN-SUFFIX,faceporn.com
 DOMAIN-SUFFIX,feedblitz.com
 DOMAIN-SUFFIX,fgmtv.org
+<<<<<<< HEAD
+=======
+DOMAIN-SUFFIX,filestube.com
+>>>>>>> upstream/master
 DOMAIN-SUFFIX,flirt4free.com
 DOMAIN-SUFFIX,flu.cc
 DOMAIN-SUFFIX,flurry.com
@@ -99,7 +114,10 @@ DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googleanalytics.com
 DOMAIN-SUFFIX,googlecommerce.com
+<<<<<<< HEAD
 DOMAIN-SUFFIX,googleoptimize.com
+=======
+>>>>>>> upstream/master
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googletagservices.com
@@ -109,9 +127,13 @@ DOMAIN-SUFFIX,h8vzwpv.com
 DOMAIN-SUFFIX,igg.biz
 DOMAIN-SUFFIX,incloak.com
 DOMAIN-SUFFIX,internetdefenseleague.org
+<<<<<<< HEAD
 DOMAIN-SUFFIX,iyoowi.com
 DOMAIN-SUFFIX,javhd.com
 DOMAIN-SUFFIX,jf71qh5v14.com
+=======
+DOMAIN-SUFFIX,javhd.com
+>>>>>>> upstream/master
 DOMAIN-SUFFIX,joyourself.com
 DOMAIN-SUFFIX,js.revsci.net
 DOMAIN-SUFFIX,jwpcdn.com
@@ -159,7 +181,10 @@ DOMAIN-SUFFIX,pixiv.org
 DOMAIN-SUFFIX,play-asia.com
 DOMAIN-SUFFIX,porn99.net
 DOMAIN-SUFFIX,prfct.co
+<<<<<<< HEAD
 DOMAIN-SUFFIX,printfriendly.com
+=======
+>>>>>>> upstream/master
 DOMAIN-SUFFIX,pubmatic.com
 DOMAIN-SUFFIX,pubnub.com
 DOMAIN-SUFFIX,pushwoosh.com
@@ -200,6 +225,10 @@ DOMAIN-SUFFIX,twittercounter.com
 DOMAIN-SUFFIX,ubertags.com
 DOMAIN-SUFFIX,uod2quk646.com
 DOMAIN-SUFFIX,voyeurhit.com
+<<<<<<< HEAD
+=======
+DOMAIN-SUFFIX,vwo.com
+>>>>>>> upstream/master
 DOMAIN-SUFFIX,watchmygf.com
 DOMAIN-SUFFIX,wm-panel.com
 DOMAIN-SUFFIX,wmflabs.org

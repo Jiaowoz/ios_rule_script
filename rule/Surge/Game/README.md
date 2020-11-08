@@ -10,7 +10,11 @@
 
 
 
+<<<<<<< HEAD
 最后检查时间：2020-10-26 16:28:09。
+=======
+最后检查时间：2020-11-07 00:12:34。
+>>>>>>> upstream/master
 
 ## 规则统计
 
@@ -31,6 +35,7 @@
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
 |  [Blizzard](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Blizzard)    | 6   | [6](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Game/Repeat/Blizzard.list)   |   100.00%  |
+<<<<<<< HEAD
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/China)    | 598   | [10](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Game/Repeat/China.list)   |   1.67%  |
 |  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 73776   | [10](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Game/Repeat/ChinaTest.list)   |   0.01%  |
 |  [Discord](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Discord)    | 6   | [6](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Game/Repeat/Discord.list)   |   100.00%  |
@@ -38,6 +43,15 @@
 |  [SteamCN](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/SteamCN)    | 13   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Game/Repeat/SteamCN.list)   |   38.46%  |
 |  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Global)    | 842   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Game/Repeat/Global.list)   |   0.48%  |
 |  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Proxy)    | 27355   | [17](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Game/Repeat/Proxy.list)   |   0.06%  |
+=======
+|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/China)    | 593   | [10](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Game/Repeat/China.list)   |   1.69%  |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 73807   | [10](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Game/Repeat/ChinaTest.list)   |   0.01%  |
+|  [Discord](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Discord)    | 6   | [6](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Game/Repeat/Discord.list)   |   100.00%  |
+|  [Steam](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Steam)    | 16   | [16](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Game/Repeat/Steam.list)   |   100.00%  |
+|  [SteamCN](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/SteamCN)    | 13   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Game/Repeat/SteamCN.list)   |   38.46%  |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Global)    | 828   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Game/Repeat/Global.list)   |   0.48%  |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Proxy)    | 27399   | [17](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Game/Repeat/Proxy.list)   |   0.06%  |
+>>>>>>> upstream/master
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化

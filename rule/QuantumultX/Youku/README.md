@@ -8,7 +8,11 @@
 
 
 
+<<<<<<< HEAD
 最后检查时间：2020-10-26 16:28:13。
+=======
+最后检查时间：2020-11-07 00:12:37。
+>>>>>>> upstream/master
 
 ## 规则统计
 
@@ -28,7 +32,11 @@
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
 |  [AsianMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AsianMedia)    | 28   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Youku/Repeat/AsianMedia.list)   |   3.57%  |
+<<<<<<< HEAD
 |  [ChinaIPs](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaIPs)    | 7162   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Youku/Repeat/ChinaIPs.list)   |   0.01%  |
+=======
+|  [ChinaIPs](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaIPs)    | 7227   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Youku/Repeat/ChinaIPs.list)   |   0.01%  |
+>>>>>>> upstream/master
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化

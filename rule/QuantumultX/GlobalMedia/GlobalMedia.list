@@ -1,5 +1,6 @@
 # NAME: GlobalMedia
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
+<<<<<<< HEAD
 # UPDATE: 2020-10-26 16:28:06
 # USER-AGENT: 46
 # HOST-SUFFIX: 160
@@ -42,6 +43,27 @@ HOST,foxsports03-i.akamaihd.net,GlobalMedia
 HOST,gamer-cds.cdn.hinet.net,GlobalMedia
 HOST,gamer2-cds.cdn.hinet.net,GlobalMedia
 HOST,global.edge.bamgrid.com,GlobalMedia
+=======
+# UPDATE: 2020-11-07 00:12:27
+# USER-AGENT: 46
+# HOST-SUFFIX: 161
+# HOST-KEYWORD: 13
+# HOST: 28
+# IP-CIDR: 20
+# TOTAL: 268
+HOST,api.viu.now.com,GlobalMedia
+HOST,atv-ps.amazon.com,GlobalMedia
+HOST,avodmp4s3ww-a.akamaihd.net,GlobalMedia
+HOST,bcbolt446c5271-a.akamaihd.net,GlobalMedia
+HOST,bcbolthboa-a.akamaihd.net,GlobalMedia
+HOST,cf-images.ap-southeast-1.prod.boltdns.net,GlobalMedia
+HOST,content.jwplatform.com,GlobalMedia
+HOST,edge.api.brightcove.com,GlobalMedia
+HOST,fls-na.amazon.com,GlobalMedia
+HOST,foxsports01-i.akamaihd.net,GlobalMedia
+HOST,foxsports02-i.akamaihd.net,GlobalMedia
+HOST,foxsports03-i.akamaihd.net,GlobalMedia
+>>>>>>> upstream/master
 HOST,gspe1-ssl.ls.apple.com,GlobalMedia
 HOST,hamifans.emome.net,GlobalMedia
 HOST,hboasia1-i.akamaihd.net,GlobalMedia
@@ -51,17 +73,24 @@ HOST,hboasia4-i.akamaihd.net,GlobalMedia
 HOST,hboasia5-i.akamaihd.net,GlobalMedia
 HOST,itvpnpmobile-a.akamaihd.net,GlobalMedia
 HOST,kktv-theater.kk.stream,GlobalMedia
+<<<<<<< HEAD
 HOST,linear-abematv.akamaized.net,GlobalMedia
 HOST,litvfreemobile-hichannel.cdn.hinet.net,GlobalMedia
+=======
+>>>>>>> upstream/master
 HOST,netflix.com.edgesuite.net,GlobalMedia
 HOST,np-edge.itunes.apple.com,GlobalMedia
 HOST,play-edge.itunes.apple.com,GlobalMedia
 HOST,players.brightcove.net,GlobalMedia
+<<<<<<< HEAD
 HOST,s3-ap-southeast-1.amazonaws.com,GlobalMedia
 HOST,staticasiafox.akamaized.net,GlobalMedia
 HOST,videos-f.jwpsrv.com,GlobalMedia
 HOST,vod-dash-uk-live.akamaized.net,GlobalMedia
 HOST,vod-thumb-uk-live.akamaized.net,GlobalMedia
+=======
+HOST,videos-f.jwpsrv.com,GlobalMedia
+>>>>>>> upstream/master
 HOST,youtubei.googleapis.com,GlobalMedia
 HOST,yt3.ggpht.com,GlobalMedia
 HOST-SUFFIX,5itv.tv,GlobalMedia
@@ -159,6 +188,10 @@ HOST-SUFFIX,kktv.me,GlobalMedia
 HOST-SUFFIX,linetv.tw,GlobalMedia
 HOST-SUFFIX,litv.tv,GlobalMedia
 HOST-SUFFIX,llnwd.net,GlobalMedia
+<<<<<<< HEAD
+=======
+HOST-SUFFIX,media-amazon.com,GlobalMedia
+>>>>>>> upstream/master
 HOST-SUFFIX,mobileanalytics.us-east-1.amazonaws.com,GlobalMedia
 HOST-SUFFIX,muscdn.com,GlobalMedia
 HOST-SUFFIX,musical.ly,GlobalMedia

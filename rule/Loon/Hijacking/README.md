@@ -8,7 +8,11 @@
 
 
 
+<<<<<<< HEAD
 最后检查时间：2020-10-26 16:28:11。
+=======
+最后检查时间：2020-11-07 00:12:36。
+>>>>>>> upstream/master
 
 ## 规则统计
 
@@ -29,10 +33,17 @@ Hijacking分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
+<<<<<<< HEAD
 |  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 140228   | [209](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Hijacking/Repeat/Advertising.list)   |   0.15%  |
 |  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 165828   | [209](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Hijacking/Repeat/AdvertisingTest.list)   |   0.13%  |
 |  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingLite)    | 44358   | [202](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Hijacking/Repeat/AdvertisingLite.list)   |   0.46%  |
 |  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73776   | [54](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Hijacking/Repeat/ChinaTest.list)   |   0.07%  |
+=======
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 93227   | [208](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Hijacking/Repeat/Advertising.list)   |   0.22%  |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 109520   | [208](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Hijacking/Repeat/AdvertisingTest.list)   |   0.19%  |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingLite)    | 41859   | [202](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Hijacking/Repeat/AdvertisingLite.list)   |   0.48%  |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73807   | [54](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Hijacking/Repeat/ChinaTest.list)   |   0.07%  |
+>>>>>>> upstream/master
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化

@@ -8,7 +8,11 @@
 
 
 
+<<<<<<< HEAD
 最后检查时间：2020-10-26 16:28:08。
+=======
+最后检查时间：2020-11-07 00:12:32。
+>>>>>>> upstream/master
 
 ## 规则统计
 
@@ -29,9 +33,15 @@ Bahamut分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
+<<<<<<< HEAD
 |  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Global)    | 837   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Bahamut/Repeat/Global.list)   |   0.60%  |
 |  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia)    | 296   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Bahamut/Repeat/GlobalMedia.list)   |   1.69%  |
 |  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Proxy)    | 27352   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Bahamut/Repeat/Proxy.list)   |   0.00%  |
+=======
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Global)    | 823   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Bahamut/Repeat/Global.list)   |   0.61%  |
+|  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia)    | 268   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Bahamut/Repeat/GlobalMedia.list)   |   1.12%  |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Proxy)    | 27396   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Bahamut/Repeat/Proxy.list)   |   0.00%  |
+>>>>>>> upstream/master
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化

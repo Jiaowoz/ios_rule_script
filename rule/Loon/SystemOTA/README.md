@@ -8,7 +8,11 @@
 
 
 
+<<<<<<< HEAD
 最后检查时间：2020-10-26 16:28:09。
+=======
+最后检查时间：2020-11-07 00:12:34。
+>>>>>>> upstream/master
 
 ## 规则统计
 
@@ -27,7 +31,12 @@ iOS系统升级分流规则，与本项目其他分流规则重复情况统计�
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
+<<<<<<< HEAD
 |  [Apple](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Apple)    | 1805   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/SystemOTA/Repeat/Apple.list)   |   0.17%  |
+=======
+|  [Apple](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Apple)    | 160   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/SystemOTA/Repeat/Apple.list)   |   1.88%  |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73807   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/SystemOTA/Repeat/ChinaTest.list)   |   0.00%  |
+>>>>>>> upstream/master
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化

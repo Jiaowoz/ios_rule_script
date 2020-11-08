@@ -1,5 +1,6 @@
 # NAME: Apple
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
+<<<<<<< HEAD
 # UPDATE: 2020-10-26 16:28:04
 # HOST-SUFFIX: 1656
 # IP-CIDR: 10
@@ -180,11 +181,22 @@ HOST-SUFFIX,4beatsbydre.com,Apple
 HOST-SUFFIX,5beatsbydre.com,Apple
 HOST-SUFFIX,5lml.com,Apple
 HOST-SUFFIX,a0pple.net,Apple
+=======
+# UPDATE: 2020-11-07 00:12:26
+# HOST-SUFFIX: 147
+# IP-CIDR: 10
+# HOST: 2
+# USER-AGENT: 1
+# TOTAL: 160
+HOST,api.smoot.apple.cn,Apple
+HOST,apple.comscoreresearch.com,Apple
+>>>>>>> upstream/master
 HOST-SUFFIX,a1.mzstatic.com,Apple
 HOST-SUFFIX,a2.mzstatic.com,Apple
 HOST-SUFFIX,a3.mzstatic.com,Apple
 HOST-SUFFIX,a4.mzstatic.com,Apple
 HOST-SUFFIX,a5.mzstatic.com,Apple
+<<<<<<< HEAD
 HOST-SUFFIX,aaagradeheadphones.com,Apple
 HOST-SUFFIX,aanaan.com,Apple
 HOST-SUFFIX,aapl.tw,Apple
@@ -889,6 +901,23 @@ HOST-SUFFIX,casquemonsterbeats.com,Apple
 HOST-SUFFIX,casquemonsterbeatsbydre2013.com,Apple
 HOST-SUFFIX,casquesbeatsaudio.com,Apple
 HOST-SUFFIX,catalina.hk,Apple
+=======
+HOST-SUFFIX,aaplimg.com,Apple
+HOST-SUFFIX,adcdownload.apple.com,Apple
+HOST-SUFFIX,adcdownload.apple.com.akadns.net,Apple
+HOST-SUFFIX,akadns.net,Apple
+HOST-SUFFIX,appldnld.apple.com,Apple
+HOST-SUFFIX,appldnld.g.aaplimg.com,Apple
+HOST-SUFFIX,apple-cloudkit.com,Apple
+HOST-SUFFIX,apple.co,Apple
+HOST-SUFFIX,apple.com,Apple
+HOST-SUFFIX,apple.com.cn,Apple
+HOST-SUFFIX,apps.apple.com,Apple
+HOST-SUFFIX,apps.mzstatic.com,Apple
+HOST-SUFFIX,appsto.re,Apple
+HOST-SUFFIX,appstore.com,Apple
+HOST-SUFFIX,audio-ssl.itunes.apple.com,Apple
+>>>>>>> upstream/master
 HOST-SUFFIX,cdn-apple.com,Apple
 HOST-SUFFIX,cdn-cn1.apple-mapkit.com,Apple
 HOST-SUFFIX,cdn-cn2.apple-mapkit.com,Apple
@@ -902,6 +931,7 @@ HOST-SUFFIX,cdn4.apple-mapkit.com,Apple
 HOST-SUFFIX,cds-cdn.v.aaplimg.com,Apple
 HOST-SUFFIX,cds.apple.com,Apple
 HOST-SUFFIX,cds.apple.com.akadns.net,Apple
+<<<<<<< HEAD
 HOST-SUFFIX,cheap-beats-by-dre.net,Apple
 HOST-SUFFIX,cheap-beatsbydre.com,Apple
 HOST-SUFFIX,cheapbagshoes.com,Apple
@@ -959,6 +989,8 @@ HOST-SUFFIX,chihair-straightener.com,Apple
 HOST-SUFFIX,chinaclothesstore.com,Apple
 HOST-SUFFIX,chomp.com,Apple
 HOST-SUFFIX,ciattackers.com,Apple
+=======
+>>>>>>> upstream/master
 HOST-SUFFIX,cl1-cdn.origin-apple.com.akadns.net,Apple
 HOST-SUFFIX,cl1.apple.com,Apple
 HOST-SUFFIX,cl2-cn.apple.com,Apple
@@ -973,6 +1005,7 @@ HOST-SUFFIX,cl5-cdn.origin-apple.com.akadns.net,Apple
 HOST-SUFFIX,cl5.apple.com,Apple
 HOST-SUFFIX,clientflow.apple.com,Apple
 HOST-SUFFIX,clientflow.apple.com.akadns.net,Apple
+<<<<<<< HEAD
 HOST-SUFFIX,cmhalq.com,Apple
 HOST-SUFFIX,cnshopin.com,Apple
 HOST-SUFFIX,configuration.apple.com,Apple
@@ -1127,6 +1160,14 @@ HOST-SUFFIX,gmnetworks.net,Apple
 HOST-SUFFIX,gobeatsye.com,Apple
 HOST-SUFFIX,gobuyonlinestore.net,Apple
 HOST-SUFFIX,goodsdunk.net,Apple
+=======
+HOST-SUFFIX,configuration.apple.com,Apple
+HOST-SUFFIX,configuration.apple.com.akadns.net,Apple
+HOST-SUFFIX,crashlytics.com,Apple
+HOST-SUFFIX,cstat.apple.com,Apple
+HOST-SUFFIX,dd-cdn.origin-apple.com.akadns.net,Apple
+HOST-SUFFIX,download.developer.apple.com,Apple
+>>>>>>> upstream/master
 HOST-SUFFIX,gs-loc-cn.apple.com,Apple
 HOST-SUFFIX,gs-loc.apple.com,Apple
 HOST-SUFFIX,gsp10-ssl-cn.ls.apple.com,Apple
@@ -1143,6 +1184,7 @@ HOST-SUFFIX,gspe19-cn.ls.apple.com,Apple
 HOST-SUFFIX,gspe21-ssl.ls.apple.com,Apple
 HOST-SUFFIX,gspe21.ls.apple.com,Apple
 HOST-SUFFIX,gspe35-ssl.ls.apple.com,Apple
+<<<<<<< HEAD
 HOST-SUFFIX,headphonepubs.com,Apple
 HOST-SUFFIX,headphones-cool.com,Apple
 HOST-SUFFIX,headphones-dre.com,Apple
@@ -1261,12 +1303,26 @@ HOST-SUFFIX,imoviegallery.com,Apple
 HOST-SUFFIX,imoviestage.com,Apple
 HOST-SUFFIX,incentivetravelgifts.com,Apple
 HOST-SUFFIX,indiaipad.com,Apple
+=======
+HOST-SUFFIX,hls-amt.itunes.apple.com,Apple
+HOST-SUFFIX,hls.itunes.apple.com,Apple
+HOST-SUFFIX,iadsdk.apple.com,Apple
+HOST-SUFFIX,icloud-cdn.icloud.com.akadns.net,Apple
+HOST-SUFFIX,icloud-content.com,Apple
+HOST-SUFFIX,icloud.cdn-apple.com,Apple
+HOST-SUFFIX,icloud.com,Apple
+HOST-SUFFIX,icloud.com.cn,Apple
+HOST-SUFFIX,images.apple.com,Apple
+HOST-SUFFIX,images.apple.com.akadns.net,Apple
+HOST-SUFFIX,images.apple.com.edgekey.net.globalredir.akadns.net,Apple
+>>>>>>> upstream/master
 HOST-SUFFIX,init-p01md-lb.push-apple.com.akadns.net,Apple
 HOST-SUFFIX,init-p01md.apple.com,Apple
 HOST-SUFFIX,init-p01st-lb.push-apple.com.akadns.net,Apple
 HOST-SUFFIX,init-p01st.push.apple.com,Apple
 HOST-SUFFIX,init-s01st-lb.push-apple.com.akadns.net,Apple
 HOST-SUFFIX,init-s01st.push.apple.com,Apple
+<<<<<<< HEAD
 HOST-SUFFIX,insidear.cn,Apple
 HOST-SUFFIX,insidemacintosh.com,Apple
 HOST-SUFFIX,ioffergift.com,Apple
@@ -1384,6 +1440,10 @@ HOST-SUFFIX,ipodshop.com.au,Apple
 HOST-SUFFIX,ipodtouch.co,Apple
 HOST-SUFFIX,ipodtouch.com,Apple
 HOST-SUFFIX,ipple.com,Apple
+=======
+HOST-SUFFIX,iosapps.itunes.g.aaplimg.com,Apple
+HOST-SUFFIX,iphone-ld.apple.com,Apple
+>>>>>>> upstream/master
 HOST-SUFFIX,is1-ssl.mzstatic.com,Apple
 HOST-SUFFIX,is1.mzstatic.com,Apple
 HOST-SUFFIX,is2-ssl.mzstatic.com,Apple
@@ -1394,6 +1454,7 @@ HOST-SUFFIX,is4-ssl.mzstatic.com,Apple
 HOST-SUFFIX,is4.mzstatic.com,Apple
 HOST-SUFFIX,is5-ssl.mzstatic.com,Apple
 HOST-SUFFIX,is5.mzstatic.com,Apple
+<<<<<<< HEAD
 HOST-SUFFIX,ischool.com,Apple
 HOST-SUFFIX,islamiccenterofnewlondon.com,Apple
 HOST-SUFFIX,italiabeatsbydrdre.com,Apple
@@ -1509,10 +1570,18 @@ HOST-SUFFIX,makeeu.com,Apple
 HOST-SUFFIX,mallheadphone.com,Apple
 HOST-SUFFIX,mbeats-tech.com,Apple
 HOST-SUFFIX,mbheadphone.com,Apple
+=======
+HOST-SUFFIX,itunes-apple.com.akadns.net,Apple
+HOST-SUFFIX,itunes.apple.com,Apple
+HOST-SUFFIX,itunes.com,Apple
+HOST-SUFFIX,itunesconnect.apple.com,Apple
+HOST-SUFFIX,ls.apple.com,Apple
+>>>>>>> upstream/master
 HOST-SUFFIX,me.com,Apple
 HOST-SUFFIX,mesu-cdn.apple.com.akadns.net,Apple
 HOST-SUFFIX,mesu-china.apple.com.akadns.net,Apple
 HOST-SUFFIX,mesu.apple.com,Apple
+<<<<<<< HEAD
 HOST-SUFFIX,micstl.com,Apple
 HOST-SUFFIX,mmonsterheadphones.net,Apple
 HOST-SUFFIX,mobileme.dk,Apple
@@ -1665,12 +1734,26 @@ HOST-SUFFIX,researchkit.hk,Apple
 HOST-SUFFIX,researchkit.net,Apple
 HOST-SUFFIX,researchkit.org,Apple
 HOST-SUFFIX,researchkit.tv,Apple
+=======
+HOST-SUFFIX,music.apple.com,Apple
+HOST-SUFFIX,mzstatic.com,Apple
+HOST-SUFFIX,ocsp-lb.apple.com.akadns.net,Apple
+HOST-SUFFIX,ocsp.apple.com,Apple
+HOST-SUFFIX,oscdn.apple.com,Apple
+HOST-SUFFIX,oscdn.origin-apple.com.akadns.net,Apple
+HOST-SUFFIX,pancake.apple.com,Apple
+HOST-SUFFIX,pancake.cdn-apple.com.akadns.net,Apple
+HOST-SUFFIX,phobos.apple.com,Apple
+HOST-SUFFIX,prod-support.apple-support.akadns.net,Apple
+HOST-SUFFIX,reserve-prime.apple.com,Apple
+>>>>>>> upstream/master
 HOST-SUFFIX,s.mzstatic.com,Apple
 HOST-SUFFIX,s1.mzstatic.com,Apple
 HOST-SUFFIX,s2.mzstatic.com,Apple
 HOST-SUFFIX,s3.mzstatic.com,Apple
 HOST-SUFFIX,s4.mzstatic.com,Apple
 HOST-SUFFIX,s5.mzstatic.com,Apple
+<<<<<<< HEAD
 HOST-SUFFIX,salebeatslasteststyle4you.com,Apple
 HOST-SUFFIX,saleblackfridaydrebeats.com,Apple
 HOST-SUFFIX,salecheaphandbags.com,Apple
@@ -1700,12 +1783,15 @@ HOST-SUFFIX,soso7778.com,Apple
 HOST-SUFFIX,specialtyheadphones.com,Apple
 HOST-SUFFIX,spektral.cc,Apple
 HOST-SUFFIX,spiritclubs.com,Apple
+=======
+>>>>>>> upstream/master
 HOST-SUFFIX,stocks-sparkline-lb.apple.com.akadns.net,Apple
 HOST-SUFFIX,store.apple.com,Apple
 HOST-SUFFIX,store.apple.com.edgekey.net,Apple
 HOST-SUFFIX,store.apple.com.edgekey.net.globalredir.akadns.net,Apple
 HOST-SUFFIX,store.storeimages.apple.com.akadns.net,Apple
 HOST-SUFFIX,store.storeimages.cdn-apple.com,Apple
+<<<<<<< HEAD
 HOST-SUFFIX,straightouttasomewhere.com,Apple
 HOST-SUFFIX,studiobeatsbydrdre.com,Apple
 HOST-SUFFIX,sulwerphoto.com,Apple
@@ -1716,12 +1802,17 @@ HOST-SUFFIX,support-china.apple-support.akadns.net,Apple
 HOST-SUFFIX,support.apple.com,Apple
 HOST-SUFFIX,sustainthesound.com,Apple
 HOST-SUFFIX,sverigebeatsbydrdre.com,Apple
+=======
+HOST-SUFFIX,support-china.apple-support.akadns.net,Apple
+HOST-SUFFIX,support.apple.com,Apple
+>>>>>>> upstream/master
 HOST-SUFFIX,swcatalog-cdn.apple.com.akadns.net,Apple
 HOST-SUFFIX,swcatalog.apple.com,Apple
 HOST-SUFFIX,swcdn.apple.com,Apple
 HOST-SUFFIX,swcdn.g.aaplimg.com,Apple
 HOST-SUFFIX,swdist.apple.com,Apple
 HOST-SUFFIX,swdist.apple.com.akadns.net,Apple
+<<<<<<< HEAD
 HOST-SUFFIX,swift.org,Apple
 HOST-SUFFIX,swiftui.cn,Apple
 HOST-SUFFIX,swiftui.com.cn,Apple
@@ -1800,6 +1891,17 @@ HOST-SUFFIX,xn--kput3imi374g.xn--hxt814e,Apple
 HOST-SUFFIX,xn--ohq11k7pl25iyo8a.cn,Apple
 HOST-SUFFIX,xn--ruq8a011kt6y.xn--hxt814e,Apple
 HOST-SUFFIX,yourmonsterbeats.com,Apple
+=======
+HOST-SUFFIX,swscan-cdn.apple.com.akadns.net,Apple
+HOST-SUFFIX,swscan.apple.com,Apple
+HOST-SUFFIX,updates-http.cdn-apple.com,Apple
+HOST-SUFFIX,updates-http.cdn-apple.com.akadns.net,Apple
+HOST-SUFFIX,valid.apple.com,Apple
+HOST-SUFFIX,valid.origin-apple.com.akadns.net,Apple
+HOST-SUFFIX,www.apple.com,Apple
+HOST-SUFFIX,www.apple.com.edgekey.net,Apple
+HOST-SUFFIX,www.apple.com.edgekey.net.globalredir.akadns.net,Apple
+>>>>>>> upstream/master
 USER-AGENT,com.apple.appstored*,Apple
 IP-CIDR,139.178.128.0/18,Apple
 IP-CIDR,144.178.0.0/19,Apple

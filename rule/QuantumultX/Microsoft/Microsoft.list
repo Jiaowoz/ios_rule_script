@@ -1,5 +1,6 @@
 # NAME: Microsoft
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
+<<<<<<< HEAD
 # UPDATE: 2020-10-26 16:28:06
 # HOST-SUFFIX: 91
 # HOST: 1
@@ -7,6 +8,14 @@
 # HOST-KEYWORD: 4
 # TOTAL: 98
 HOST,oneclient.sfx.ms,Microsoft
+=======
+# UPDATE: 2020-11-07 00:12:27
+# HOST-SUFFIX: 91
+# HOST: 0
+# USER-AGENT: 2
+# HOST-KEYWORD: 4
+# TOTAL: 97
+>>>>>>> upstream/master
 HOST-SUFFIX,1drv.com,Microsoft
 HOST-SUFFIX,aadrm.com,Microsoft
 HOST-SUFFIX,acompli.com,Microsoft

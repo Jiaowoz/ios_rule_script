@@ -8,17 +8,29 @@
 
 
 
+<<<<<<< HEAD
 最后检查时间：2020-10-26 16:28:08。
 
 ## 规则统计
 
 总计规则：7162 条。
+=======
+最后检查时间：2020-11-07 00:12:33。
+
+## 规则统计
+
+总计规则：7227 条。
+>>>>>>> upstream/master
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
+<<<<<<< HEAD
 | IP-CIDR | 7162 |
+=======
+| IP-CIDR | 7227 |
+>>>>>>> upstream/master
 ## 重复统计
 
 ChinaIPs分流规则，与本项目其他分流规则重复情况统计。
@@ -28,8 +40,13 @@ ChinaIPs分流规则，与本项目其他分流规则重复情况统计。
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
 |  [AsianMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AsianMedia)    | 28   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaIPs/Repeat/AsianMedia.list)   |   10.71%  |
+<<<<<<< HEAD
 |  [ChinaMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaMedia)    | 75   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaIPs/Repeat/ChinaMedia.list)   |   2.67%  |
 |  [NetEaseMusic](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/NetEaseMusic)    | 50   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaIPs/Repeat/NetEaseMusic.list)   |   6.00%  |
+=======
+|  [ChinaMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaMedia)    | 74   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaIPs/Repeat/ChinaMedia.list)   |   2.70%  |
+|  [NetEaseMusic](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/NetEaseMusic)    | 44   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaIPs/Repeat/NetEaseMusic.list)   |   6.82%  |
+>>>>>>> upstream/master
 |  [IQiyi](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/IQiyi)    | 7   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaIPs/Repeat/IQiyi.list)   |   28.57%  |
 |  [Youku](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Youku)    | 1   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaIPs/Repeat/Youku.list)   |   100.00%  |
 ## 配置说明

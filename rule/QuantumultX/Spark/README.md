@@ -8,7 +8,11 @@
 
 
 
+<<<<<<< HEAD
 最后检查时间：2020-10-26 16:28:11。
+=======
+最后检查时间：2020-11-07 00:12:36。
+>>>>>>> upstream/master
 
 ## 规则统计
 
@@ -27,6 +31,7 @@ Spotify分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
+<<<<<<< HEAD
 |  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Advertising)    | 139893   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Spark/Repeat/Advertising.list)   |   0.00%  |
 |  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest)    | 165493   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Spark/Repeat/AdvertisingTest.list)   |   0.00%  |
 |  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/BlackList)    | 778   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Spark/Repeat/BlackList.list)   |   0.39%  |
@@ -34,6 +39,15 @@ Spotify分流规则，与本项目其他分流规则重复情况统计。
 |  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Global)    | 837   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Spark/Repeat/Global.list)   |   0.24%  |
 |  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia)    | 296   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Spark/Repeat/GlobalMedia.list)   |   0.34%  |
 |  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Proxy)    | 27352   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Spark/Repeat/Proxy.list)   |   0.01%  |
+=======
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Advertising)    | 92892   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Spark/Repeat/Advertising.list)   |   0.00%  |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest)    | 109185   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Spark/Repeat/AdvertisingTest.list)   |   0.00%  |
+|  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/BlackList)    | 781   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Spark/Repeat/BlackList.list)   |   0.38%  |
+|  [Google](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Google)    | 123   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Spark/Repeat/Google.list)   |   0.81%  |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Global)    | 823   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Spark/Repeat/Global.list)   |   0.24%  |
+|  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia)    | 268   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Spark/Repeat/GlobalMedia.list)   |   0.37%  |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Proxy)    | 27396   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Spark/Repeat/Proxy.list)   |   0.01%  |
+>>>>>>> upstream/master
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化

@@ -12,19 +12,33 @@
 去广告分流规则中含有URL-REGEX类型，此类的规则对于HTTPS请求需要MITM使用才能生效。
 
 
+<<<<<<< HEAD
 最后检查时间：2020-10-26 16:28:07。
 
 ## 规则统计
 
 总计规则：140228 条。
+=======
+最后检查时间：2020-11-07 00:12:28。
+
+## 规则统计
+
+总计规则：93227 条。
+>>>>>>> upstream/master
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
+<<<<<<< HEAD
 | DOMAIN | 95491 |
 | DOMAIN-KEYWORD | 56 |
 | DOMAIN-SUFFIX | 44103 |
+=======
+| DOMAIN | 48177 |
+| DOMAIN-KEYWORD | 56 |
+| DOMAIN-SUFFIX | 44416 |
+>>>>>>> upstream/master
 | IP-CIDR | 243 |
 | URL-REGEX | 335 |
 ## 重复统计
@@ -36,6 +50,7 @@
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
 |  [Adobe](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Adobe)    | 34   | [6](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/Adobe.list)   |   17.65%  |
+<<<<<<< HEAD
 |  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 165828   | [140228](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/AdvertisingTest.list)   |   84.56%  |
 |  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingLite)    | 44358   | [44358](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/AdvertisingLite.list)   |   100.00%  |
 |  [Apple](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Apple)    | 1805   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/Apple.list)   |   0.17%  |
@@ -55,6 +70,27 @@
 |  [Spark](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Spark)    | 4   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/Spark.list)   |   25.00%  |
 |  [Privacy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Privacy)    | 2716   | [2687](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/Privacy.list)   |   98.93%  |
 |  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Proxy)    | 27355   | [177](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/Proxy.list)   |   0.65%  |
+=======
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 109520   | [83787](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/AdvertisingTest.list)   |   76.50%  |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingLite)    | 41859   | [22213](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/AdvertisingLite.list)   |   53.07%  |
+|  [Apple](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Apple)    | 160   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/Apple.list)   |   1.25%  |
+|  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/BlackList)    | 781   | [24](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/BlackList.list)   |   3.07%  |
+|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China)    | 593   | [9](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/China.list)   |   1.52%  |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73807   | [1144](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/ChinaTest.list)   |   1.55%  |
+|  [ChinaMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaMedia)    | 74   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/ChinaMedia.list)   |   1.35%  |
+|  [WhiteList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/WhiteList)    | 21   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/WhiteList.list)   |   4.76%  |
+|  [Google](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Google)    | 123   | [14](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/Google.list)   |   11.38%  |
+|  [YouTube](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube)    | 14   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/YouTube.list)   |   7.14%  |
+|  [Microsoft](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Microsoft)    | 97   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/Microsoft.list)   |   1.03%  |
+|  [Niconico](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Niconico)    | 5   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/Niconico.list)   |   20.00%  |
+|  [NetEaseMusic](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/NetEaseMusic)    | 44   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/NetEaseMusic.list)   |   2.27%  |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Global)    | 827   | [7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/Global.list)   |   0.85%  |
+|  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/GlobalMedia)    | 268   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/GlobalMedia.list)   |   1.87%  |
+|  [Hijacking](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Hijacking)    | 209   | [208](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/Hijacking.list)   |   99.52%  |
+|  [Spark](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Spark)    | 4   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/Spark.list)   |   25.00%  |
+|  [Privacy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Privacy)    | 2721   | [2691](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/Privacy.list)   |   98.90%  |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Proxy)    | 27399   | [173](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/Proxy.list)   |   0.63%  |
+>>>>>>> upstream/master
 |  [Tencent](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Tencent)    | 19   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/Tencent.list)   |   5.26%  |
 ## 配置说明
 
@@ -87,9 +123,13 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 - https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block_Add.txt
 - https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block_Plus.txt
 - https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/AdRule.list
+<<<<<<< HEAD
 - https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/AdRuleTest.list
 - https://raw.githubusercontent.com/NobyDa/Script/master/Surge/AdRule.list
 - https://raw.githubusercontent.com/NobyDa/Script/master/Surge/AdRuleTest.list
+=======
+- https://raw.githubusercontent.com/NobyDa/Script/master/Surge/AdRule.list
+>>>>>>> upstream/master
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Guard/Advertising.list
 - https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Hijacking.list
@@ -123,6 +163,23 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 
 所以很抱歉，没办法处理关于某个APP无法去除广告的反馈，除非您能明确数据源的规则可以去除，而整合后的规则无法去除。同样，也没办法协助您处理去广告规则误拦截的问题，除非您能明确告知哪条规则存在问题，我会将其加入规则黑名单，下次爬虫程序更新时将其去除。
 
+<<<<<<< HEAD
+=======
+### 特定APP去广告
+
+#### 知乎
+
+本规则不包含知乎去广告，知乎去广告请移步：https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zhihu
+
+#### 哔哩哔哩
+
+如需更完整的哔哩哔哩去广告，请移步：https://github.com/blackmatrix7/ios_rule_script/tree/master/script/bilibili
+
+#### YouTube
+
+本规则不包含YouTube去广告，请自行寻找其他解决方案。
+
+>>>>>>> upstream/master
 ### 正则过滤
 
 爬虫程序在清洗原始规则数据时，可根据正则定向过滤规则，以达到保留特定规则的目的。经过正则过滤的规则，无法100%涵盖原始规则数据，请知悉。

@@ -1,5 +1,6 @@
 # NAME: GlobalMedia
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
+<<<<<<< HEAD
 # UPDATE: 2020-10-26 16:28:06
 # USER-AGENT: 46
 # DOMAIN-SUFFIX: 160
@@ -42,6 +43,27 @@ DOMAIN,foxsports03-i.akamaihd.net
 DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN,gamer2-cds.cdn.hinet.net
 DOMAIN,global.edge.bamgrid.com
+=======
+# UPDATE: 2020-11-07 00:12:27
+# USER-AGENT: 46
+# DOMAIN-SUFFIX: 161
+# DOMAIN-KEYWORD: 13
+# DOMAIN: 28
+# IP-CIDR: 20
+# TOTAL: 268
+DOMAIN,api.viu.now.com
+DOMAIN,atv-ps.amazon.com
+DOMAIN,avodmp4s3ww-a.akamaihd.net
+DOMAIN,bcbolt446c5271-a.akamaihd.net
+DOMAIN,bcbolthboa-a.akamaihd.net
+DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
+DOMAIN,content.jwplatform.com
+DOMAIN,edge.api.brightcove.com
+DOMAIN,fls-na.amazon.com
+DOMAIN,foxsports01-i.akamaihd.net
+DOMAIN,foxsports02-i.akamaihd.net
+DOMAIN,foxsports03-i.akamaihd.net
+>>>>>>> upstream/master
 DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,hamifans.emome.net
 DOMAIN,hboasia1-i.akamaihd.net
@@ -51,17 +73,24 @@ DOMAIN,hboasia4-i.akamaihd.net
 DOMAIN,hboasia5-i.akamaihd.net
 DOMAIN,itvpnpmobile-a.akamaihd.net
 DOMAIN,kktv-theater.kk.stream
+<<<<<<< HEAD
 DOMAIN,linear-abematv.akamaized.net
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+=======
+>>>>>>> upstream/master
 DOMAIN,netflix.com.edgesuite.net
 DOMAIN,np-edge.itunes.apple.com
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN,players.brightcove.net
+<<<<<<< HEAD
 DOMAIN,s3-ap-southeast-1.amazonaws.com
 DOMAIN,staticasiafox.akamaized.net
 DOMAIN,videos-f.jwpsrv.com
 DOMAIN,vod-dash-uk-live.akamaized.net
 DOMAIN,vod-thumb-uk-live.akamaized.net
+=======
+DOMAIN,videos-f.jwpsrv.com
+>>>>>>> upstream/master
 DOMAIN,youtubei.googleapis.com
 DOMAIN,yt3.ggpht.com
 DOMAIN-SUFFIX,5itv.tv
@@ -159,6 +188,10 @@ DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,llnwd.net
+<<<<<<< HEAD
+=======
+DOMAIN-SUFFIX,media-amazon.com
+>>>>>>> upstream/master
 DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
