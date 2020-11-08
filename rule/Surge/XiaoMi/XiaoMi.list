@@ -1,6 +1,10 @@
 # NAME: XiaoMi
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
+<<<<<<< HEAD
 # UPDATE: 2020-10-26 16:28:07
+=======
+# UPDATE: 2020-11-07 00:12:28
+>>>>>>> upstream/master
 # DOMAIN-SUFFIX: 7
 # TOTAL: 7
 DOMAIN-SUFFIX,duokan.com

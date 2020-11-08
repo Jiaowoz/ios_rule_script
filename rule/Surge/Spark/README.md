@@ -8,7 +8,11 @@
 
 
 
+<<<<<<< HEAD
 最后检查时间：2020-10-26 16:28:11。
+=======
+最后检查时间：2020-11-07 00:12:36。
+>>>>>>> upstream/master
 
 ## 规则统计
 
@@ -27,6 +31,7 @@ Spotify分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
+<<<<<<< HEAD
 |  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Advertising)    | 140228   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Spark/Repeat/Advertising.list)   |   0.00%  |
 |  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingTest)    | 165828   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Spark/Repeat/AdvertisingTest.list)   |   0.00%  |
 |  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/BlackList)    | 779   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Spark/Repeat/BlackList.list)   |   0.39%  |
@@ -34,6 +39,15 @@ Spotify分流规则，与本项目其他分流规则重复情况统计。
 |  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Global)    | 842   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Spark/Repeat/Global.list)   |   0.24%  |
 |  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia)    | 296   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Spark/Repeat/GlobalMedia.list)   |   0.34%  |
 |  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Proxy)    | 27355   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Spark/Repeat/Proxy.list)   |   0.01%  |
+=======
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Advertising)    | 93227   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Spark/Repeat/Advertising.list)   |   0.00%  |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingTest)    | 109520   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Spark/Repeat/AdvertisingTest.list)   |   0.00%  |
+|  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/BlackList)    | 782   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Spark/Repeat/BlackList.list)   |   0.38%  |
+|  [Google](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Google)    | 123   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Spark/Repeat/Google.list)   |   0.81%  |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Global)    | 828   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Spark/Repeat/Global.list)   |   0.24%  |
+|  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia)    | 268   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Spark/Repeat/GlobalMedia.list)   |   0.37%  |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Proxy)    | 27399   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Spark/Repeat/Proxy.list)   |   0.01%  |
+>>>>>>> upstream/master
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化

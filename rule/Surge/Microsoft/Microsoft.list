@@ -1,5 +1,6 @@
 # NAME: Microsoft
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
+<<<<<<< HEAD
 # UPDATE: 2020-10-26 16:28:06
 # DOMAIN-SUFFIX: 91
 # DOMAIN: 1
@@ -8,6 +9,15 @@
 # PROCESS-NAME: 2
 # TOTAL: 100
 DOMAIN,oneclient.sfx.ms
+=======
+# UPDATE: 2020-11-07 00:12:27
+# DOMAIN-SUFFIX: 91
+# DOMAIN: 0
+# USER-AGENT: 2
+# DOMAIN-KEYWORD: 4
+# PROCESS-NAME: 2
+# TOTAL: 99
+>>>>>>> upstream/master
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,aadrm.com
 DOMAIN-SUFFIX,acompli.com

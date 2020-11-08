@@ -8,7 +8,11 @@
 
 
 
+<<<<<<< HEAD
 最后检查时间：2020-10-26 16:28:13。
+=======
+最后检查时间：2020-11-07 00:12:37。
+>>>>>>> upstream/master
 
 ## 规则统计
 
@@ -27,9 +31,15 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
+<<<<<<< HEAD
 |  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/BlackList)    | 779   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Wikipedia/Repeat/BlackList.list)   |   0.39%  |
 |  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Global)    | 842   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Wikipedia/Repeat/Global.list)   |   0.59%  |
 |  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Proxy)    | 27355   | [12](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Wikipedia/Repeat/Proxy.list)   |   0.04%  |
+=======
+|  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/BlackList)    | 782   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Wikipedia/Repeat/BlackList.list)   |   0.38%  |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Global)    | 828   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Wikipedia/Repeat/Global.list)   |   0.60%  |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Proxy)    | 27399   | [12](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Wikipedia/Repeat/Proxy.list)   |   0.04%  |
+>>>>>>> upstream/master
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化

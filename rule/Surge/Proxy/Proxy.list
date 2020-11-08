@@ -1,6 +1,10 @@
 # NAME: Proxy
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
+<<<<<<< HEAD
 # UPDATE: 2020-10-26 16:28:06
+=======
+# UPDATE: 2020-11-07 00:12:28
+>>>>>>> upstream/master
 # DOMAIN-KEYWORD: 27
 # USER-AGENT: 3
 # IP-CIDR: 85
